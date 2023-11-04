@@ -1,0 +1,54 @@
+.navbar ul{
+    list-style-type: none;
+    background-color: hsl(262.42deg 72.9% 14.57%);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    
+    
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+    margin-left: 50%;
+    
+}
+.navbar a:hover{
+    background-color: hsl(254, 54%, 85%);
+    width: 90%;
+}
+.navbar li{
+    float: left;
+    margin-left: 15%;
+    }
+
+.boxes{
+    display: flex;
+    margin-left: 20%;
+    background-color: rgb(234, 174, 234);
+    
+}
+#whole{
+  background-color: rgb(143, 245, 211);  
+  font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.box1{
+    background-color: rgb(238, 188, 188);
+    margin: 100px;
+    height: 200px;
+    width: 300px;
+    margin-left: 60px;
+    
+}
+
+.box2{
+    background-color: rgb(238, 188, 188);
+    margin: 100px;
+    height: 200px;
+    width: 300px;
+    margin-left: 60px;
+}
